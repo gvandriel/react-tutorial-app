@@ -2,11 +2,12 @@
 
 This is a progress overview of my React learning. I am doing the interactive https://react-tutorial.app/ by Jad Joubran (PRO version). The course consist of 90 chapters that can only be done in sequence.
 
-## Sep 15, 2022
+## Sep 11, 2022
 
-- Bought the course
+Started free part of the course
 
 - Finished:
 
-  1. Intro
-  2. React Intro
+1. Intro
+2. React Intro
+3. React DOM
