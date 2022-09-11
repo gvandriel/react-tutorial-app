@@ -11,3 +11,10 @@ Started free part of the course
 1. Intro
 2. React Intro
 3. React DOM
+
+## Sep 12, 2022
+
+4. Intro to JSX
+5. JSX expressions
+6. JSX II
+7. Components
