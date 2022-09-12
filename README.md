@@ -18,3 +18,8 @@ Started free part of the course
 5. JSX expressions
 6. JSX II
 7. Components
+
+## Sep 13, 2022
+
+8. Props
+9. Project I
