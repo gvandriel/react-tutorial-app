@@ -8,7 +8,7 @@ Sep 15, 2022
 
 Sep 24, 2022
 
-Finished:
+- Finished:
 
 1. Intro
 2. React Intro
