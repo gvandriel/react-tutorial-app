@@ -10,14 +10,14 @@ Sep 24, 2022
 
 - Finished:
 
-1. Intro
-2. React Intro
-3. React DOM
-4. Intro to JSX
-5. JSX expressions
-6. JSX II
-7. Componentss
-8. Props
-9. Project I
-10. Pure functions
-11. JSX advanced
+  1. Intro
+  2. React Intro
+  3. React DOM
+  4. Intro to JSX
+  5. JSX expressions
+  6. JSX II
+  7. Componentss
+  8. Props
+  9. Project I
+  10. Pure functions
+  11. JSX advanced
